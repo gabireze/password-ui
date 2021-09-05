@@ -1,11 +1,11 @@
 // import logo from './logo.svg';
 import "./App.css";
-import { Basic } from "./basic";
+import { RandomPasswordGenerator } from "./randomPasswordGenerator";
 
 function App() {
   return (
     <div className="App">
-      <Basic></Basic>
+      <RandomPasswordGenerator></RandomPasswordGenerator>
     </div>
   );
 }
