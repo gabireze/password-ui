@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { Formik, Field, Form, FastField } from "formik";
 
-// import * as Yup from "yup";
-
 const generate = async (options) => {
   const requestOptions = {
     method: "POST",
