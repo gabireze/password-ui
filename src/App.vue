@@ -18,8 +18,8 @@ const form = ref({
 const result = ref('')
 const contentType = ref('')
 const filename = ref('passwords')
-const apiUrl = import.meta.env.VITE_API_URL
-const siteKey = import.meta.env.VITE_RECAPTCHA_SITE_KEY
+const apiUrl = 'https://fssv2ttoh0.execute-api.sa-east-1.amazonaws.com';
+const siteKey = '6LfuXh0rAAAAAKVllVFrkS5ZGhYsMoIsdkR9yKiP';
 
 const generate = async () => {
   try {
