@@ -37,7 +37,7 @@ const generate = async () => {
     });
 
     const response = await axios.post(
-      `${apiUrl}/password/generate`,
+      `${apiUrl}/generate`,
       {
         ...form.value,
         recaptchaToken: token,
