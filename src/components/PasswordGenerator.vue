@@ -7,7 +7,7 @@ import { useTheme } from "../composables/useTheme";
 import PasswordForm from "./PasswordForm.vue";
 import ResultPanel from "./ResultPanel.vue";
 
-const apiUrl = "https://fssv2ttoh0.execute-api.sa-east-1.amazonaws.com";
+const apiUrl = "https://api.gabireze.cloud/password";
 const siteKey = "6LfuXh0rAAAAAKVllVFrkS5ZGhYsMoIsdkR9yKiP";
 
 const { isDark, toggleDark } = useTheme();
