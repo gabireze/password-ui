@@ -2,6 +2,9 @@
 
 Frontend application to consume the Password Generator API.
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=gabireze/password-ui@github)](https://gitads.dev/v1/ad-track?source=gabireze/password-ui@github)
+
 Built with:
 
 - ⚡ **Vite** + **Vue 3** + **TypeScript**
