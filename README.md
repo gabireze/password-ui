@@ -62,3 +62,6 @@ UNLICENSED – for personal or internal use only.
 ## ✨ Author
 
 Made with 💚 by [Gabriel de Rezende Gonçalves](https://github.com/gabireze)
+
+<!-- GitAds-Verify: G32A5FCRLZH92NN934XK5KOOF4MTBW8V -->
+
